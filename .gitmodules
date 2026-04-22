@@ -8,3 +8,6 @@
 [submodule "FoReco"]
 	path = FoReco
 	url = https://github.com/danigiro/foreco
+[submodule "FoRecoML"]
+	path = FoRecoML
+	url = https://github.com/danigiro/forecoml
