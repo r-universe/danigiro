@@ -11,3 +11,6 @@
 [submodule "FoRecoML"]
 	path = FoRecoML
 	url = https://github.com/danigiro/forecoml
+[submodule "msarima"]
+	path = msarima
+	url = https://github.com/danigiro/msarima
